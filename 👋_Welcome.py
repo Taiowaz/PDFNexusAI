@@ -5,7 +5,7 @@ import streamlit as st
 # 设置网页窗口标题
 st.set_page_config(
     page_title="PDFNexusAI - Welcome",
-    page_icon="👋"all
+    page_icon="👋"
 )
 
 # 设置网页左上角LOGO
